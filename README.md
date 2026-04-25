@@ -3,6 +3,8 @@
 > ⚡ Intelligent system to predict milk quality using Machine Learning for safer and smarter dairy analysis
 
 ---
+<p align="center"> <img src="assets/banner.png" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> <img src="https://img.shields.io/badge/MachineLearning-Enabled-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Accuracy-98%25-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/Domain-IoT|AI-orange?style=for-the-badge"> </p>
+---
 
 ## 🌟 About The Project
 
