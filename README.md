@@ -51,6 +51,7 @@ Platform
 
 Python
 Jupyter Notebook
+
 📊 Dataset Features
 Parameter	Purpose
 pH	Acidity detection
@@ -83,6 +84,7 @@ Feature importance analysis
 Model comparison strategy
 Hyperparameter tuning
 Performance evaluation
+
 📂 Project Structure
 project-root/
 │
@@ -92,6 +94,7 @@ project-root/
 ├── reports/
 ├── assets/
 └── README.md
+
 🎥 Demo
 
 (Add your GIF or screenshot here)
@@ -101,11 +104,13 @@ IoT-based real-time data collection
 Web application deployment
 Mobile app integration
 Cloud deployment (AWS / OCI)
+
 🧠 Learnings
 Applied ML to real-world problem
 Importance of preprocessing
 Model selection strategies
 End-to-end system building
+
 👨‍💻 Author
 
 Mahidhar Reddy
@@ -113,3 +118,5 @@ Mahidhar Reddy
 
 💼 GitHub: https://github.com/Code-with-Mahidhar
 🔗 LinkedIn: https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264
+
+
