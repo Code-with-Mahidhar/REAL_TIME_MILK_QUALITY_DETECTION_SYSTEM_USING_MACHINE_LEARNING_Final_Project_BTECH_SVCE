@@ -31,9 +31,9 @@ Traditional milk quality testing:
 
 ## ⚙️ Workflow
 
-```text
 Milk Data → Preprocessing → Feature Selection → ML Model → Prediction → Output
 
+---
 ## 🛠️ Tech Stack
 
 ### 🤖 Machine Learning
@@ -52,7 +52,8 @@ Milk Data → Preprocessing → Feature Selection → ML Model → Prediction �
 
 ## 📊 Dataset Features
 
-| Parameter   | Purpose                |
+```bash
+| Parameter  | Purpose               |
 |------------|-----------------------|
 | pH         | Acidity detection     |
 | Temperature| Spoilage indicator    |
@@ -61,16 +62,20 @@ Milk Data → Preprocessing → Feature Selection → ML Model → Prediction �
 | Fat        | Nutritional quality   |
 | Turbidity  | Purity indicator      |
 | Color      | Visual quality        |
+```
 
-🤖 Models Used
+---
+
+## 🤖 Models Used
 🌳 Random Forest
 🚀 XGBoost
 📍 K-Nearest Neighbors (KNN)
 ⚡ AdaBoost
-
 💡 Tuned using GridSearchCV
 
-📈 Performance
+---
+
+## 📈 Performance
 🎯 Accuracy: 98.5%
 ⚡ High Precision & Recall
 📊 Best model selected after comparison
@@ -80,16 +85,18 @@ Milk Data → Preprocessing → Feature Selection → ML Model → Prediction �
 📊 End-to-end ML pipeline
 ⚡ High accuracy prediction system
 
-## 🏗️ Engineering Highlights
+---
 
+## 🏗️ Engineering Highlights
 - Data preprocessing pipeline  
 - Feature importance analysis  
 - Model comparison strategy  
 - Hyperparameter tuning  
 - Performance evaluation  
 
-## 📂 Project Structure
+---
 
+## 📂 Project Structure
 ```bash
 project-root/
 │
@@ -99,25 +106,30 @@ project-root/
 ├── reports/
 ├── assets/
 └── README.md
+```
+
+---
 
 ## 💥 Why This Project Matters
-
 - Solves a real-world dairy quality problem  
 - Demonstrates practical use of Machine Learning  
 - Shows end-to-end ML pipeline implementation  
 - Reflects readiness for ML/Data roles  
 
-🔮 Future Enhancements
-IoT-based real-time data collection
-Web application deployment
-Mobile app integration
-Cloud deployment (AWS / OCI)
+---
+## 🔮 Future Enhancements
+- IoT-based real-time data collection
+- Web application deployment
+- Mobile app integration
+- Cloud deployment (AWS / OCI)
 
-🧠 Learnings
-Applied ML to real-world problem
-Importance of preprocessing
-Model selection strategies
-End-to-end system building
+---
+
+## 🧠 Learnings
+- Applied ML to real-world problem
+- Importance of preprocessing
+- Model selection strategies
+- End-to-end system building
 
 ## 📈 Performance
 
@@ -125,11 +137,11 @@ End-to-end system building
 - ⚡ High Precision & Recall  
 - 📊 Best model selected after comparison  
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Mahidhar Reddy
 🚀 Backend Developer | ML Enthusiast
 
-💼 GitHub: https://github.com/Code-with-Mahidhar
-🔗 LinkedIn: https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264
-📧 Email: mahidharreddybandre@gmail.com  
+💼 GitHub: https://github.com/Code-with-Mahidhar 
+🔗 LinkedIn: https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264 
+📧 Email: mahidharreddybandre@gmail.com   
