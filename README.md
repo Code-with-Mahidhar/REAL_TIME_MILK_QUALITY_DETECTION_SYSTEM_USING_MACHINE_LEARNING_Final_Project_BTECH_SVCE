@@ -67,23 +67,23 @@ Milk Data → Preprocessing → Feature Selection → ML Model → Prediction �
 ---
 
 ## 🤖 Models Used
-🌳 Random Forest
-🚀 XGBoost
-📍 K-Nearest Neighbors (KNN)
-⚡ AdaBoost
-💡 Tuned using GridSearchCV
+- 🌳 Random Forest
+- 🚀 XGBoost
+- 📍 K-Nearest Neighbors (KNN)
+- ⚡ AdaBoost
+- 💡 Tuned using GridSearchCV
 
 ---
 
 ## 📈 Performance
-🎯 Accuracy: 98.5%
-⚡ High Precision & Recall
-📊 Best model selected after comparison
-🚀 Key Highlights
-🔍 Real-world dairy problem solving
-🤖 Multiple ML models comparison
-📊 End-to-end ML pipeline
-⚡ High accuracy prediction system
+- 🎯 Accuracy: 98.5%
+- ⚡ High Precision & Recall
+- 📊 Best model selected after comparison
+- 🚀 Key Highlights
+- 🔍 Real-world dairy problem solving
+- 🤖 Multiple ML models comparison
+- 📊 End-to-end ML pipeline
+- ⚡ High accuracy prediction system
 
 ---
 
